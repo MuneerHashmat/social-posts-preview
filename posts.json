@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "created_at": "2026-11-18T11:40:08.410261+00:00",
+    "item_key": "2026-12-01-facebook",
+    "post_date": "2026-12-01",
+    "platform": "facebook",
+    "post_type": "carousel",
+    "source_format": "carousel",
+    "slide_count": 6,
+    "post_category": "relatable",
+    "pillar": "Buyer psychology",
+    "objective": "Reach, shares",
+    "format_label": "Carousel, 6 slides",
+    "look_label": "chat mock",
+    "caption": "Show of hands: whose flat purchase has been discussed by 30 relatives on WhatsApp? We put together the messages every family sends. The funny part is how many of them are worth listening to. Which one would your family send first? Drop it in the comments.\n\n#FirstHomeIndia #BangaloreHomes",
+    "title": null,
+    "description": null,
+    "images": [
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-facebook-slide-1-1794999468854.png",
+        "type": "slide_1"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-facebook-slide-2-1794999516992.png",
+        "type": "slide_2"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-facebook-slide-3-1794999544679.png",
+        "type": "slide_3"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-facebook-slide-4-1794999574210.png",
+        "type": "slide_4"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-facebook-slide-5-1794999624876.png",
+        "type": "slide_5"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-facebook-slide-6-1794999685126.png",
+        "type": "slide_6"
+      }
+    ],
+    "status": "pending",
+    "rejection_comment": null
+  },
+  {
+    "id": 2,
+    "created_at": "2026-11-18T11:40:08.410261+00:00",
+    "item_key": "2026-12-01-instagram",
+    "post_date": "2026-12-01",
+    "platform": "instagram",
+    "post_type": "carousel",
+    "source_format": "carousel",
+    "slide_count": 6,
+    "post_category": "relatable",
+    "pillar": "Buyer psychology",
+    "objective": "Reach, shares",
+    "format_label": "Carousel, 6 slides",
+    "look_label": "chat mock",
+    "caption": "Buying a flat in India is never a solo decision. It's a group project with 32 members and one very tired admin.\n\nSwipe for the messages every homebuyer gets — and the part nobody expects: most of them are good questions. Carpet area, power backup, resale, commute. The family is annoying because the family is often right.\n\nWhich message would your family send first? Tell us in the comments, or just forward this to the group.\n\n#FirstHomeIndia #BangaloreHomes #HomeBuyingTips #NammaBengaluru #BradRealty",
+    "title": null,
+    "description": null,
+    "images": [
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-instagram-slide-1-1794999238896.png",
+        "type": "slide_1"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-instagram-slide-2-1794999266945.png",
+        "type": "slide_2"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-instagram-slide-3-1794999294941.png",
+        "type": "slide_3"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-instagram-slide-4-1794999327034.png",
+        "type": "slide_4"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-instagram-slide-5-1794999372000.png",
+        "type": "slide_5"
+      },
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-instagram-slide-6-1794999431670.png",
+        "type": "slide_6"
+      }
+    ],
+    "status": "pending",
+    "rejection_comment": null
+  },
+  {
+    "id": 3,
+    "created_at": "2026-11-18T11:40:08.410261+00:00",
+    "item_key": "2026-12-01-pinterest",
+    "post_date": "2026-12-01",
+    "platform": "pinterest",
+    "post_type": "pin",
+    "source_format": "carousel",
+    "slide_count": 1,
+    "post_category": "relatable",
+    "pillar": "Buyer psychology",
+    "objective": "Reach, shares",
+    "format_label": "Carousel, 6 slides",
+    "look_label": "chat mock",
+    "caption": null,
+    "title": "Questions Your Family Will Ask When You Buy a Flat (and Which Ones Matter)",
+    "description": "A funny but useful look at the WhatsApp-group questions Indian families ask when someone buys an apartment: carpet area, power backup, vastu, resale value, commute. Many of them are smart due-diligence checks. Tips for first-time homebuyers in Bangalore and across India.",
+    "images": [
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-01-pinterest-pin-1794999748053.png",
+        "type": "pin"
+      }
+    ],
+    "status": "pending",
+    "rejection_comment": null
+  },
+  {
+    "id": 4,
+    "created_at": "2026-11-18T11:40:08.410261+00:00",
+    "item_key": "2026-12-03-facebook",
+    "post_date": "2026-12-03",
+    "platform": "facebook",
+    "post_type": "single",
+    "source_format": "single",
+    "slide_count": 1,
+    "post_category": "engagement",
+    "pillar": "Interactive",
+    "objective": "Comments",
+    "format_label": "Single image",
+    "look_label": "editorial type",
+    "caption": "Settle this one at home: same money, a 2 BHK close to work or a 3 BHK further out? Comment 2 or 3, and tag the person you'll be arguing with tonight.\n\n#BangaloreTraffic #2BHK",
+    "title": null,
+    "description": null,
+    "images": [
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-03-facebook-single-1794999829350.png",
+        "type": "single"
+      }
+    ],
+    "status": "pending",
+    "rejection_comment": null
+  },
+  {
+    "id": 5,
+    "created_at": "2026-11-18T11:40:08.410261+00:00",
+    "item_key": "2026-12-03-instagram",
+    "post_date": "2026-12-03",
+    "platform": "instagram",
+    "post_type": "single",
+    "source_format": "single",
+    "slide_count": 1,
+    "post_category": "engagement",
+    "pillar": "Interactive",
+    "objective": "Comments",
+    "format_label": "Single image",
+    "look_label": "editorial type",
+    "caption": "There's no right answer here, but there is an honest one.\n\nA 3 BHK gives you a study, a guest room and space for a growing family. A 2 BHK near work gives you back about six and a half hours a week (40 extra minutes each way, five days a week).\n\nWhich would you pick, and what tipped it? Comment 2 or 3.\n\n#BangaloreTraffic #2BHK #3BHK #HomeBuyingDecisions",
+    "title": null,
+    "description": null,
+    "images": [
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-03-instagram-single-1794999787143.png",
+        "type": "single"
+      }
+    ],
+    "status": "pending",
+    "rejection_comment": null
+  },
+  {
+    "id": 6,
+    "created_at": "2026-11-18T11:40:08.410261+00:00",
+    "item_key": "2026-12-03-pinterest",
+    "post_date": "2026-12-03",
+    "platform": "pinterest",
+    "post_type": "pin",
+    "source_format": "single",
+    "slide_count": 1,
+    "post_category": "engagement",
+    "pillar": "Interactive",
+    "objective": "Comments",
+    "format_label": "Single image",
+    "look_label": "editorial type",
+    "caption": null,
+    "title": "2 BHK Near Work or 3 BHK Far Away? How to Choose Between Space and Commute",
+    "description": "A simple way to choose between a smaller apartment close to your office and a bigger home further out. Count your weekly commute hours, family needs and work-from-home days. A Bangalore homebuying decision guide.",
+    "images": [
+      {
+        "url": "https://wvhliuvartknadvsmger.supabase.co/storage/v1/object/public/social-posts/2026-12-03-pinterest-pin-1794999885234.png",
+        "type": "pin"
+      }
+    ],
+    "status": "pending",
+    "rejection_comment": null
+  }
+]
